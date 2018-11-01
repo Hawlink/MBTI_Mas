@@ -14,7 +14,7 @@ import jade.wrapper.AgentController;
 import jade.wrapper.ControllerException;
 
 /**
- * Main class - starting the agents..
+ * Main class - starting the agents.
  * @author Hawlink
  */
 public class MBTI_Mas {
